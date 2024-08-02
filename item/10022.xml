@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Essence 6.0 -->
+<!-- 90907 click -->
+<list>
+	<item>
+		<production id="91927" count="500"/>	<!-- Заряды Души -->
+		<ingredient id="90907" count="1"/>	<!-- Купон на Заряды Души -->
+	</item>
+	<item>
+		<production id="91930" count="134"/>	<!-- Заряды Души -->
+		<ingredient id="90907" count="1"/>	<!-- Купон на Заряды Души -->
+	</item>
+	<item>
+		<production id="6645" count="500"/>	<!-- Заряд Души Зверя -->
+		<ingredient id="90907" count="1"/>	<!-- Купон на Заряды Души -->
+	</item>
+	<item>
+		<production id="6646" count="200"/>	<!-- Заряд Духа Зверя -->
+		<ingredient id="90907" count="1"/>	<!-- Купон на Заряды Души -->
+	</item>
+
+</list>

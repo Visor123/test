@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Essence 6.0 -->
+<!-- 98523 click C Weapon -->
+<list>
+	<item>
+		<production id="93048" count="1"/>	<!-- Посох Демона -->
+		<ingredient id="98523" count="1"/>	<!-- Купон -->
+	</item>
+	<item>
+		<production id="93049" count="1"/>	<!-- Топор Затмения -->
+		<ingredient id="98523" count="1"/>	<!-- Купон -->
+	</item>
+	<item>
+		<production id="95304" count="1"/>	<!-- Меч Затмения -->
+		<ingredient id="98523" count="1"/>	<!-- Купон -->
+	</item>
+
+</list>

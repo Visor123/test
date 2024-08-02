@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Essence 6.0 -->
+<!-- 98521 click A Weapon -->
+<list>
+	<item>
+		<production id="92963" count="1"/>	<!-- Язык Темис -->
+		<ingredient id="98521" count="1"/>	<!-- Купон -->
+	</item>
+	<item>
+		<production id="92964" count="1"/>	<!-- Рука Кабрио -->
+		<ingredient id="98521" count="1"/>	<!-- Купон -->
+	</item>
+	<item>
+		<production id="92965" count="1"/>	<!-- Кристалл Дэймона -->
+		<ingredient id="98521" count="1"/>	<!-- Купон -->
+	</item>
+
+</list>
